@@ -1,0 +1,16 @@
+---
+name: docstrfmt
+description: "A formatter for Sphinx flavored reStructuredText."
+homepage: https://github.com/LilSpazJoekp/docstrfmt
+licenses:
+  - MIT
+languages:
+  - reStructuredText
+categories:
+  - Formatter
+
+source:
+  id: pkg:pypi/docstrfmt@1.9.0
+
+bin:
+  docstrfmt: pypi:docstrfmt
